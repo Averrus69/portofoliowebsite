@@ -7,12 +7,11 @@ const TestimonialsSection = () => {
       <div className="mt-8 max-w-3xl mx-auto">
         <div className="bg-white p-6 rounded-lg shadow-md mb-6">
           <p className="italic">
-            "Arry was an excellent developer. He delivered high-quality code and
-            was always on time."
+            Arry was an excellent developer. He delivered high-quality code and
+            was always on time.
           </p>
           <p className="mt-2 text-right">- Djoko Susanto, CEO of Alfamart</p>
         </div>
-        {/* Add more testimonials here */}
       </div>
     </section>
   );
