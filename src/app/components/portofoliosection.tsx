@@ -25,7 +25,7 @@ const PortfolioSection = () => {
           <h4 className="font-semibold">Project Overview</h4>
           <div className="mt-4">
             <p>
-              <strong>Situation:</strong> ABC Retailers, a growing retail chain,
+              <strong>Situation:</strong> Alfamart, a growing retail chain,
               needed a streamlined POS system to manage sales, inventory, and
               customer interactions at multiple store locations.
             </p>
